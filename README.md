@@ -3,7 +3,9 @@ In-progress layout, inspired by x1 and BEAKL27 for an ortho40 keyboard (such as 
 
 Position of thumb keys: [Shift, Space, AltGr, Enter] should be adjusted to have thumbs resting on Space and AltGr, with LShift and Enter placed in the more comfortable side key.
 
-![layout](layout_klatest.PNG)
+The backslash key is not bound, and needs to be placed.
+
+![layout](layout_latest.PNG)
 
 The circle symbols indicate resting position, and the coloured keys indicate which finger is responsible for pressing which key. Note the minimal usage of the pinky, with the KH and QR bigrams. Key placement could be further developed with this [information](https://www.petercollingridge.co.uk/blog/language/analysing-english/bigrams/) on bigrams in English, however I did not spend too much time thinking about this as I plan on typing in Japanese as well.
 
