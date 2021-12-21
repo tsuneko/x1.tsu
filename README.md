@@ -18,3 +18,8 @@ to-do, but tl;dr:
 - Alt layer has numbers raised one key above resting position, with left hand typing even numbers, and right hand typing odd numbers (following x1, I assume this is based on frequency of number in relation to ease of keypress). Number order should be changed as desired, to 01234 56789 (standard) or 32104 76598 (beakl27).
 - Alt layer uses a mirrored open/close brackets for faster learning
 - Symbols which are commonly typed following numbers (in programming/maths) are also placed on the alt layer to prevent unneccesary layer swaps. Other symbols are prioritised by usage (from my own anecdotal feeling).
+
+## Benchmarks
+
+Benchmarks can be made using KLA:
+[KLAtest](https://ieants.cc/kla/klatest/index.html#/compare) (preferred) or [KLA3](http://patorjk.com/keyboard-layout-analyzer/#/main). x1.tsu tends to perform better in KLA3 rather than KLAtest for some reason, so tests should ideally be done with KLAtest so that improvements can be made.
