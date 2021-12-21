@@ -7,6 +7,8 @@ Note that the layout was designed on KLA3 and has the left thumb keys positioned
 
 ![layout](layout_latest.PNG)
 
+The circle symbols indicate resting position, and the coloured keys indicate which finger is responsible for pressing which key. Note the minimal usage of the pinky, with the KH and QR bigrams. Key placement could be further developed with this [information](https://www.petercollingridge.co.uk/blog/language/analysing-english/bigrams/) on bigrams in English, however I did not spend too much time thinking about this as I plan on typing in Japanese as well.
+
 Usage of this layout requires a keyboard which can define custom layers using QMK or otherwise. The Shift button also needs to be set up as a custom layer, due to the use of symbols.
 
 ## Explanation of layout design
