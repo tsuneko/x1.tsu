@@ -19,7 +19,7 @@ to-do, but tl;dr:
 - Base layout was designed to have positions of alpha keys mirrored, unlike layouts such as QWERTY, DVORAK etc.
 - Alt layer has numbers raised one key above resting position, with left hand typing even numbers, and right hand typing odd numbers (following x1, I assume this is based on frequency of number in relation to ease of keypress). Number order should be changed as desired, to 01234 56789 (standard) or 32104 76598 (beakl27).
 - Alt layer uses a mirrored open/close brackets for faster learning
-- Symbols which are commonly typed following numbers (in programming/maths) are also placed on the alt layer to prevent unneccesary layer swaps. Other symbols are prioritised by usage (from my own anecdotal feeling).
+- Symbols which are commonly typed following numbers (in programming/maths) are also placed on the alt layer as opposed to the shift layer to prevent unneccesary layer swaps. Other symbols are prioritised by usage (from my own anecdotal feeling).
 
 ## Benchmarks
 
