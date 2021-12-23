@@ -15,7 +15,7 @@ Usage of this layout requires a keyboard which can define custom layers using QM
 
 to-do, but tl;dr:
 
-- Base layout mostly inspired by [x1](https://www.keyboard-design.com/letterlayout.html?layout=x1_atreus-44-keys.en.ergodox), but with pinky down shifted and hands shifted outward, and some small letter swaps inspired by [BEAKL27](https://www.keyboard-design.com/letterlayout.html?layout=beakl-27a.en.matrix).
+- Layout mostly inspired by decisions made by [x1](https://www.keyboard-design.com/letterlayout.html?layout=x1_atreus-44-keys.en.ergodox), but with pinky down shifted and hands shifted outward, and some small letter swaps inspired by [BEAKL27](https://www.keyboard-design.com/letterlayout.html?layout=beakl-27a.en.matrix).
 - Base layout was designed to have alpha keys mirrored, unlike layouts such as QWERTY, DVORAK etc.
 - Alt layer has numbers raised one key above resting position, with left hand typing even numbers, and right hand typing odd numbers (following x1, I assume this is based on frequency of number in relation to ease of keypress). Number order should be changed as desired, to 01234 56789 (standard) or 32104 76598 (beakl27).
 - Alt layer uses a mirrored open/close brackets for faster learning
