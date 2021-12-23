@@ -5,7 +5,7 @@ Position of thumb keys: [Shift, Space, AltGr, Enter] should be adjusted to have 
 
 The backslash key is not bound, and needs to be placed.
 
-![layout]()
+![layout](layout.PNG)
 
 The circle symbols indicate resting position, and the coloured keys indicate which finger is responsible for pressing which key. Note the minimal usage of the pinky, with the KH and ZR bigrams. Key placement could be further developed with this [information](https://www.petercollingridge.co.uk/blog/language/analysing-english/bigrams/) on bigrams in English, however I did not spend too much time thinking about this as I plan on typing in Japanese as well.
 
