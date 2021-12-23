@@ -1,13 +1,13 @@
 # x1.tsu
 In-progress layout, inspired by x1 and BEAKL27 for an ortho40 keyboard (such as planck, ergolinear, ergodox). Uses a different finger layout to standard with pinky fingers dropped to bottom row.
 
-Position of thumb keys: [Shift, Space, AltGr, Enter] should be adjusted to have thumbs resting on Space and AltGr, with LShift and Enter placed in the more comfortable side key.
+Position of thumb keys: [Shift, Space, AltGr, Enter] should be adjusted to have thumbs resting on Space and AltGr, with LShift and Enter placed in the more comfortable side key. Alternatively, Enter can be placed on the right side of the keyboard, similar to a regular ansi layout, with only a slight penalty to comfort.
 
 The backslash key is not bound, and needs to be placed.
 
-![layout](layout_klatest2.PNG)
+![layout]()
 
-The circle symbols indicate resting position, and the coloured keys indicate which finger is responsible for pressing which key. Note the minimal usage of the pinky, with the KH and QR bigrams. Key placement could be further developed with this [information](https://www.petercollingridge.co.uk/blog/language/analysing-english/bigrams/) on bigrams in English, however I did not spend too much time thinking about this as I plan on typing in Japanese as well.
+The circle symbols indicate resting position, and the coloured keys indicate which finger is responsible for pressing which key. Note the minimal usage of the pinky, with the KH and ZR bigrams. Key placement could be further developed with this [information](https://www.petercollingridge.co.uk/blog/language/analysing-english/bigrams/) on bigrams in English, however I did not spend too much time thinking about this as I plan on typing in Japanese as well.
 
 Usage of this layout requires a keyboard which can define custom layers using QMK or otherwise. The Shift button also needs to be set up as a custom layer, due to the use of symbols.
 
