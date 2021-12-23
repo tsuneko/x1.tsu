@@ -1,7 +1,7 @@
 # x1.tsu
 In-progress layout, inspired by x1 and BEAKL27 for an ortho40 keyboard (such as planck, ergolinear, ergodox). Uses a different finger layout to standard with pinky fingers dropped to bottom row.
 
-Position of thumb keys: [Shift, Space, AltGr, Enter] should be adjusted to have thumbs resting on Space and AltGr, with LShift and Enter placed in the more comfortable side key. Alternatively, Enter can be placed on the right side of the keyboard, similar to a regular ansi layout, with only a slight penalty to comfort.
+Position of thumb keys: [Shift, Space, AltGr, Enter] should be adjusted to have thumbs resting on Space and AltGr, with LShift and Enter placed in the more comfortable side key. Enter and LShift keys can be placed on the outside keys, similar to an ANSI layout, to aid in faster learning with only a slight penalty to comfort.
 
 The backslash key is not bound, and needs to be placed.
 
